@@ -1,0 +1,6 @@
+*.bak
+*.7z
+__*
+patch_*
+extracted_7z/
+密码.txt
